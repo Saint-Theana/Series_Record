@@ -1,6 +1,8 @@
 |英文名|翻译名|进度|评级(个人观点，满分10分)| 
 |:---------------:|:---------:|:-----:|:----:|
 | The big bang theory    | 生活大爆炸      | 看完             | 10  |
+| Plebs                  | 罗马三贱客      | 看完第四季        | 9.5 |
+| How I meet you mother  | 妈妈在哪儿      | 第二季即将看完     | 9.5 |
 | Game of thrones        | 权利的游戏     | 看完             | 8.5 |
 | Continuum              | 超越时间线      | 看完            |  7.5 |
 | Once upon a time       | 童话镇         | 看完(貌似被砍)   |  8.5 |
@@ -12,7 +14,7 @@
 | White Color              | 妙警贼探       | 忘了             | 8.5 |
 | Wayne                   | 维恩           | 第一季看完      | 7.5 |
 | Doom patrol             | 末日巡逻队     | 第一季看完       | 9.5 |
-| Titans                   | 泰坦            | 第一季看完      | 9  |
+| Titans                   | 泰坦            | 第二季第6集   | 9  |
 | Swamp thing            | 沼泽怪物       | 即将看完第一季   | 9.5 |
 | The gifted               | 天赋异禀       | 看完(貌似被砍)   | 5.5 |
 | Cloak and dagger        | 斗篷和匕首     | 忘了            | 6 |
